@@ -1,6 +1,6 @@
 start
-input x=celsius
-input y=farenhait
-x=5.9*(y-32)
-print x
+inputc=celsius
+inputf=farenhait
+c=5.9*(f-32)
+print c
 end

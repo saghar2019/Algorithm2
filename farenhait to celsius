@@ -1,0 +1,5 @@
+input x=farenhait
+input y=celsius
+x=(1.8 *y)+32
+prit x
+end

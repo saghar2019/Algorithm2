@@ -1,0 +1,6 @@
+start
+input x=celsius
+input y=farenhait
+x=5.9*(y-32)
+print x
+end

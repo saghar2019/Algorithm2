@@ -1,0 +1,6 @@
+start
+input x=kg
+input y=pound
+x/0.454=y
+print y
+end
